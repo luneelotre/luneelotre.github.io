@@ -19,7 +19,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: #FFFFFF url(fond.JPG); background-position: center; background-size: 100%;
+	background: #FFFFFF url(fond2.JPG); background-position: center; background-size: 100%;
 	font-family: 'ATypewriterForMe';
 	font-size: 12pt;
 	color: #3B3B3B;
@@ -385,99 +385,7 @@ div#hormenu li li a { padding:2px 2px 2px 2px; }
 	color: #FFFFFF;
 }
 
-/* Sidebar */
 
-#sidebar {
-	float: right;
-	width:300px;
-	margin: 0px;
-	padding: 40px 30px 0px 30px;
-	color: #787878;
-	background: #F2CD36;
-}
-
-#sidebar p
-{
-	color: #3B3B3B;
-}
-
-
-#sidebar ul {
-	margin: 0;
-	padding: 0;
-	list-style: none;
-}
-
-#sidebar li {
-	margin: 0;
-	padding: 0;
-
-}
-
-#sidebar li ul {
-	margin: 0px 0px;
-	padding-bottom: 50px;
-}
-
-#sidebar li li {
-	border-bottom: 1px solid #D8AD06;
-	margin: 0px 0px;
-	padding: 10px 0px;
-	border-left: none;
-}
-
-#sidebar li li a {
-	color: #3B3B3B;
-}
-
-#sidebar li li span {
-	display: block;
-	padding: 0;
-	font-size: 11px;
-	font-style: italic;
-}
-
-#sidebar h2 {
-	padding-bottom: 20px;
-	font-size: 1.8em;
-	color: #3D2729;
-}
-
-#sidebar p {
-	margin: 0px 0px 40px 0px;
-	padding: 0px;
-	text-align: justify;
-}
-
-#sidebar a {
-	border: none;
-       color: #3D2729;
-}
-
-#sidebar a:hover {
-	text-decoration: underline;
-}
-
-/* Calendar */
-
-#calendar {
-}
-
-#calendar_wrap {
-	padding: 20px;
-}
-
-#calendar table {
-	width: 100%;
-}
-
-#calendar tbody td {
-	text-align: center;
-}
-
-#calendar #next {
-	text-align: right;
-}
 
 /* Footer */
 
