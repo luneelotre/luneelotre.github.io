@@ -15,11 +15,11 @@
   src: url('ATypewriterForMe.ttf');
 }
 
-
 body {
 	margin: 0;
 	padding: 0;
-	background: #FFFFFF url(fond2.JPG); background-position: center; background-size: 100%;
+	background: #FFFFFF url(fond2.JPG); background-position: center top; background-size: auto ;
+  background-repeat: no-repeat;
 	font-family: 'ATypewriterForMe';
 	font-size: 12pt;
 	color: #3B3B3B;
@@ -64,6 +64,7 @@ a {
 
 a:hover {
 }
+
 
 /* Header */
 
@@ -124,44 +125,6 @@ a:hover {
 	color: #323030;
 }
 
-/* Search */
-
-#search {
-	width: 320px;
-	height: 60px;
-	padding: 0px;
-}
-
-#search form {
-	margin: 0px;
-	padding: 0px;
-}
-
-#search fieldset {
-	margin: 0;
-	padding: 0;
-	border: none;
-}
-
-#search-text {
-	width: 250px;
-	outline: none;
-	background: #F5F0E7;
-	border: 1px solid #D7D0C0;
-	padding: 10px;
-	border-radius: 8px;
-	text-transform: lowercase;
-	font-family: 'Open Sans', sans-serif;
-	color: #454545;
-}
-
-#search-submit {
-	width: 62px;
-	height: 22px;
-	display: none;
-	border: none;
-	color: #FFFFFF;
-}
 
 /* Menu */
 
@@ -218,8 +181,6 @@ a:hover {
 
 
 /* Submenu */
-
-
 
 div#hormenu-wrapper {
 	overflow: hidden;
@@ -281,7 +242,7 @@ div#hormenu li:hover ul
 {
 display: block;
 position: absolute;
-z-index:1;
+z-index:3;
 width:250px;
 padding: 0;
 margin: 0 0 0 -1px;
@@ -304,7 +265,7 @@ div#hormenu li li a { padding:2px 2px 2px 2px; }
 
 #page {
 	overflow: hidden;
-	width: 1000px;
+	width: 1100px;
 	margin: auto;
 }
 
@@ -313,8 +274,8 @@ div#hormenu li li a { padding:2px 2px 2px 2px; }
 /* Content */
 
 #content {
-	float: left;
-	width: 1000px;
+  float: left;
+	width: 1100px;
 	background: rgba(255,255,255,0.92);
 }
 
@@ -359,8 +320,7 @@ div#hormenu li li a { padding:2px 2px 2px 2px; }
 }
 
 .post .entry {
-	padding: 0px 100px 20px 100px;
-	padding-bottom: 20px;
+	padding: 0px 100px 0px 100px;
 	text-align: justify;
 }
 
@@ -410,9 +370,9 @@ div#hormenu li li a { padding:2px 2px 2px 2px; }
 }
 
 #footer a {
-	color: #FFFFFF;
+	color: #1f1c3c;
 }
-#footer a:hover { color : #1f1c3c}
+#footer a:hover { color : #FFFFFF}
 
 #banner {
 	width: 1000px;
