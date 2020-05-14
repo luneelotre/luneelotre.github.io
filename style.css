@@ -60,9 +60,55 @@ ul, ol {
 a {
 	text-decoration: none;
 	color: #046380;
+  font-weight: normal;
 }
 
 a:hover {
+  color: #046380;
+  font-weight:bold;
+}
+
+figure {
+    display:inline-block;
+    margin: 40px auto;
+}
+
+figure img {
+    vertical-align:top;
+}
+figure figcaption {
+    font-size: 8pt;
+    font-style: italic;
+    text-align: right;
+    padding-top: 5px ;
+}
+figure a.equipage:hover {
+  font-weight: normal;
+  font-style: normal;
+  position: relative;
+  z-index: 5;
+}
+
+figure a:hover img {
+  opacity: 0.4;
+  transition: .5s ease;
+}
+
+figure a.koolkid:hover::before, figure a.koolkid:hover::after {
+  content: '•';
+  color: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  z-index: 10;
+}
+figure a.camille:hover::before {
+  top: 32px;
+  left: 85px;
+  font-size: 7em;
+}
+figure a.camille:hover::after {
+  top: 32px;
+  left: 130px;
+  font-size: 7em;
 }
 
 
@@ -344,7 +390,6 @@ div#hormenu li li a { padding:2px 2px 2px 2px; }
 	font-size: 14px;
 	color: #FFFFFF;
 }
-
 
 
 /* Footer */
