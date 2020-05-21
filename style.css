@@ -25,6 +25,16 @@ body {
 	color: #3B3B3B;
 }
 
+body.image{
+	margin: 0;
+	padding: 0;
+	background: #000000; background-size: auto ;
+  background-repeat: no-repeat;
+	font-family: 'ATypewriterForMe';
+	font-size: 12pt;
+	color: #3B3B3B;
+}
+
 h1, h2, h3 {
 	margin: 0px;
 	padding: 0px;
@@ -58,7 +68,7 @@ ul, ol {
 }
 
 a {
-	text-decoration: none;
+	text-decoration:none;
 	color: #046380;
   font-weight: normal;
 }
