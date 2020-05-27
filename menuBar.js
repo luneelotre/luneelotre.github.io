@@ -22,7 +22,6 @@ document.getElementById("menubar").innerHTML=
 +				'<li><a href="AteliersTheatre.html">Ateliers Théâtre</a></li>'
 +				'<li><a href="AteliersEcriture.html">Ateliers d’écriture</a></li>'
 +				'<li><a href="PaysagesMusees.html">Paysages et Musées</a></li>'
-+				'<li><a href="AuLongCours.html">Au long cours</a></li>'
 +				'</ul>'
 +			'</li>'
 +			'<li><a href="#">Sur le terrain</a>'
