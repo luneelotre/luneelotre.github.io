@@ -19,7 +19,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #FFFFFF url(fond2.JPG); background-position: center top; background-size: auto ;
-  background-repeat: no-repeat;
+  background-repeat:repeat;
 	font-family: 'ATypewriterForMe';
 	font-size: 12pt;
 	color: #3B3B3B;
@@ -52,7 +52,9 @@ h1 {
 h2 {
 	letter-spacing: 1px;
 	font-size: 2em;
-        text-transform: uppercase;
+  text-align: center;
+  text-transform:none;
+  color: #FFFFFF;
 }
 
 h3 {
@@ -78,9 +80,21 @@ a:hover {
   font-weight:bold;
 }
 
+a.ancrage {
+	text-decoration:none;
+	color: #046380;
+  font-weight: bold;
+}
+
+a.ancrage:hover {
+  color: #1f1c3c;
+  font-weight:normal;
+}
+
 figure {
     display:inline-block;
-    margin: 40px auto;
+    margin: 10px auto;
+
 }
 
 figure img {
