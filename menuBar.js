@@ -21,7 +21,7 @@ document.getElementById("menubar").innerHTML=
 +				'<li><a href="JRJR.html">Jeux de rôles et de rêves</a></li>'
 +				'<li><a href="AteliersTheatre.html">Ateliers Théâtre</a></li>'
 +				'<li><a href="AteliersEcriture.html">Ateliers d’écriture</a></li>'
-+				'<li><a href="PaysagesMusees.html">Paysages et Musées</a></li>'
++				'<!-- <li><a href="PaysagesMusees.html">Paysages et Musées</a></li> -->'
 +				'</ul>'
 +			'</li>'
 +			'<li><a href="#">Sur le terrain</a>'
