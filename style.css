@@ -15,6 +15,12 @@
   src: url('ATypewriterForMe.ttf');
 }
 
+@font-face {
+  font-family: Crim;
+  src: url('Crimson.ttf');
+}
+
+
 body {
 	margin: 0;
 	padding: 0;
