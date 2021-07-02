@@ -36,8 +36,8 @@ document.getElementById("menubar").innerHTML=
 
 +			'<li><a href="#">Journal de bord</a>'
 +				'<ul> '
-+				'<li><a href="Temps.html">Les temps qui courent...</a></li>'
-+				'<li><a href="Passe.html">...et ceux qui passent</a></li>'
++				'<li><a href="Tempsquicourent.html">Les temps qui courent...</a></li>'
++				'<li><a href="Tempsquipassent.html">...et ceux qui passent</a></li>'
 +				'</ul>'
 +			'</li>'
 
