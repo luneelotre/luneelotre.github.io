@@ -5,6 +5,7 @@ document.getElementById("menubar").innerHTML=
 +				'<ul>'
 +				'<li><a href="index.html">Lunée l’Ôtre</a></li>'
 +				'<li><a href="Equipage.html">L’Équipage</a></li>'
++				'<li><a href="Nouvelles fraîches.html">Nouvelles fraîches</a></li>'
 +				'</ul>'
 +          '</li>'
 +			'<li><a href="#">Les Créations</a>'
