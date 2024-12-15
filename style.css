@@ -465,54 +465,20 @@ div#hormenu li li a { padding:2px 2px 2px 2px; }
 
 @media (max-width: 860px) {
 
-  #menu-wrapper {
-  	width: 200px;
-  	height: auto;
-    display: block;
-  }
-
-  div#hormenu { height: auto; }
-   div#hormenu a {
-     margin: 0;
-     padding: 10px;
-     text-align: left;
-     width: 100%;
-     box-sizing: border-box;
-   }
-
-   .flex-container { display: block; }
-   .flex-container > div { margin: 10px auto; max-width:95% !important;}
-
 
 
 #wrapper { overflow: scroll;
 overflow-x: hidden !important;
-max-height: 100vh;
 width: 1100px;
 }
 
-#page {
-	overflow: hidden;
-	width: auto;
-	margin: auto;
-}
 
-
-#content {
-  float: left;
-	width: auto;
-	background: rgba(255,255,255,0.92);
-}
-
-
-body {
-	margin: 0;
-	padding: 0;
-	background: #FFFFFF ; background-position: center top; background-size: auto ;
-  background-repeat:repeat;
-	font-family: 'ATypewriterForMe';
-	font-size: 12pt;
-	color: #3B3B3B;
+#footer {
+	width: 1100px;
+	height: 85px;
+	margin: 0px auto;
+	padding: 0px;
+	background: #6a667b;
 }
 
 }
