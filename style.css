@@ -150,7 +150,7 @@ figure a.camille:hover::after {
 
 #header {
 	clear: both;
-	width: 1000px;
+	width: 1100px;
 	margin: 0px auto;
 }
 
@@ -211,7 +211,7 @@ figure a.camille:hover::after {
 }
 
 #menu {
-	width: 1000px;
+	width: 1100px;
 	height: 55px;
 	margin: 0px auto;
 	padding: 0px;
@@ -450,7 +450,7 @@ div#hormenu li li a { padding:2px 2px 2px 2px; }
 #footer a:hover { color : #FFFFFF}
 
 #banner {
-	width: 1000px;
+	width: 1100px;
 	margin: 0px auto;
 }
 
