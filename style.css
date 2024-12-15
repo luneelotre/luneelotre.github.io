@@ -465,6 +465,13 @@ div#hormenu li li a { padding:2px 2px 2px 2px; }
 
 @media (max-width: 860px) {
 
+  #menu-wrapper {
+  	overflow: hidden;
+  	height: 56px;
+    width: 1000px;
+
+  }
+
 
 
 #wrapper { overflow: scroll;
