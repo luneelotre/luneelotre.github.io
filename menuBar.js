@@ -10,7 +10,7 @@ document.getElementById("menubar").innerHTML=
 +          '</li>'
 +			'<li><a href="#">Les Créations</a>'
 +       '<ul>'
-+         '<li><a href="TourdHorizon.html">Tour d’Horizon</a></li>'
++         '<li><a href="Toursdhorizon.html">Tours d’horizon</a></li>'
 +         '<li><a href="LaDeferle.html">La Déferle</a></li>'
 +			  	'<li><a href="PresquIllisible.html">Presqu’Illisible</a></li>'
 +				  '<li><a href="LeCarrouselDuFlare.html">Le Carrousel du Flare</a></li>'
