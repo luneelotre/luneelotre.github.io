@@ -38,8 +38,11 @@ document.getElementById("menubar").innerHTML=
 
 +			'<li><a href="#">Journal de bord</a>'
 +				'<ul> '
-+				'<li><a href="Tempsquicourent.html">Les temps qui courent...</a></li>'
-+				'<li><a href="Tempsquipassent.html">...et ceux qui passent</a></li>'
++				'<li><a href="2024.html">Année 2024</a></li>'
++				'<li><a href="2023.html">Année 2023</a></li>'
++				'<li><a href="2022.html">Année 2022</a></li>'
++				'<li><a href="2021.html">Année 2021</a></li>'
++				'<li><a href="2020.html">Année 2020</a></li>'
 +				'</ul>'
 +			'</li>'
 
