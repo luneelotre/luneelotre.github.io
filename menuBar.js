@@ -9,6 +9,7 @@ document.getElementById("menubar").innerHTML=
 +          '</li>'
 +			'<li><a href="#">Les Créations</a>'
 +       '<ul>'
++         '<li><a href="DiciDemain.html">D’ici demain</a></li>'
 +         '<li><a href="Toursdhorizon.html">Tours d’horizon</a></li>'
 +         '<li><a href="LaDeferle.html">La Déferle</a></li>'
 +			  	'<li><a href="PresquIllisible.html">Presqu’Illisible</a></li>'
