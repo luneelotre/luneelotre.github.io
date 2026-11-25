@@ -5,7 +5,6 @@ document.getElementById("menubar").innerHTML=
 +				'<ul>'
 +				'<li><a href="index.html">Lunée l’Ôtre</a></li>'
 +				'<li><a href="Equipage.html">L’Équipage</a></li>'
-+				'<li><a href="Nouvelles fraîches.html">Nouvelles fraîches</a></li>'
 +				'</ul>'
 +          '</li>'
 +			'<li><a href="#">Les Créations</a>'
@@ -38,11 +37,8 @@ document.getElementById("menubar").innerHTML=
 
 +			'<li><a href="#">Journal de bord</a>'
 +				'<ul> '
-+				'<li><a href="2024.html">Année 2024</a></li>'
-+				'<li><a href="2023.html">Année 2023</a></li>'
-+				'<li><a href="2022.html">Année 2022</a></li>'
-+				'<li><a href="2021.html">Année 2021</a></li>'
-+				'<li><a href="2020.html">Année 2020</a></li>'
++				'<li><a href="Nouvelles fraîches.html">Nouvelles fraîches...</a></li>'
++				'<li><a href="EtSouvenirs.html">...Et souvenirs</a></li>'
 +				'</ul>'
 +			'</li>'
 
